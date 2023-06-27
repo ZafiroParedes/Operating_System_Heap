@@ -18,7 +18,8 @@ Chuncks that have data only have the data within the size lines while chuncks th
 
 To apply and test the heap was working as intended, a linked list saving a sequence of strings given by a user is used. The picture below shoes the linked list of strings along with the address with the link to the chunck that is storing the next string and the address of where the data begins. 
 
-![linked list program](https://github.com/ZafiroParedes/Operating_System_Heap/assets/91034132/5df7a7a7-fcb7-45c5-b3c6-e0d887d89a8f)
+![linked list program](https://github.com/ZafiroParedes/Operating_System_Heap/assets/91034132/64e588d1-4756-45a7-a86e-6e399091c45b)
+
 
 
 ### Recycling and No Fragmentation
